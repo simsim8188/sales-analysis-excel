@@ -1,1 +1,3 @@
 # sales-analysis-excel
+![Screenshot 2025-01-07 114530](https://github.com/user-attachments/assets/03912ff4-069a-439b-93ca-0c5c7b0f7f5a)
+Created an interactive sales dashboard to track and analyze key performance metrics, providing actionable insights to drive business growth and optimize sales strategies. some charts shown in dashboards are- Profit by each category in different segments using stacked column chart. Sales by months using line chart. Proportion of shipping mode in orders using pie chart. Customers of different segments from different regions using Clustered column. Utilized slicers to filter data.
